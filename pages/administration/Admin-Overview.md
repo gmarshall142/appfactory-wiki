@@ -10,7 +10,7 @@ Pages
 * Lookup Tables
 * Application Bunos
 * App Maintenance
-  * [Applications]()
+  * [Applications](Applications "Application Maintenance")
   * Pages
   * Tables & Columns
   * Form Actions
