@@ -21,7 +21,7 @@ Applications that have been created are listed in the application section of the
 Administration sections.  The application order is set using the Administration menu pages.  [_TODO_] The applicatons listed will 
 be based on the user's application authorization.
 
-### [Administration Pages](Admin-Overview.md "Applicaton Maintenance")
+### [Administration Pages](Admin-Overview "Applicaton Maintenance")
 * Form Builder
 * Lookup Tables
 * Application Bunos
